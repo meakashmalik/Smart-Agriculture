@@ -1,31 +1,23 @@
 # 🌾 Smart Agriculture 
 
 ## 📌 Project Overview
-Smart Agriculture System ek IoT-based project hai jo farming ko smart aur efficient banane ke liye design kiya gaya hai. Yeh system sensors aur automation ka use karke crop monitoring aur irrigation control karta hai.
+Smart Agriculture Web System ek frontend-based web application hai jo agriculture monitoring aur awareness ke liye design kiya gaya hai. Yeh system farmers ya users ko crop-related information, irrigation guidance aur environmental data visualize karne me help karta hai.
 
 ## 🚀 Features
-- 🌱 Soil Moisture Monitoring
-- 🌡 Temperature & Humidity Detection
-- 💧 Automatic Irrigation System
-- 📊 Real-time Data Monitoring
-- 📱 Remote Access (via Web/App)
-- 🔔 Alerts & Notifications
+- 🌱 Agriculture Information Dashboard
+- 🌡 Temperature & Humidity Display (Static/Dynamic UI)
+- 💧 Irrigation Guidance System (UI Based)
+- 📊 Interactive Charts & Data Visualization
+- 📱 Responsive Design (Mobile Friendly)
+- 🎨 Clean & User-Friendly Interface
 
 ## 🛠 Technologies Used
-- Hardware: NodeMCU (ESP8266), Sensors
-- Software: Arduino IDE
-- Programming: C/C++
-- Web Technologies: HTML, CSS, JavaScript (if used)
-- Database: (Mention if used)
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-## ⚙️ Working Principle
-1. Sensors soil moisture, temperature, humidity detect karte hain.
-2. Data NodeMCU ko send hota hai.
-3. System decide karta hai irrigation ON/OFF karna hai ya nahi.
-4. Data cloud/server par upload hota hai.
-5. User remotely monitoring kar sakta hai.
-
-## 📷 Project Images
-(Add images here if available)
-
-## 📂 Folder Structure
+## ⚙️ How It Works
+1. User website open karta hai browser me
+2. Dashboard par agriculture related data show hota hai
+3. UI elements (charts, cards, sections) information display karte hain
+4. JavaScript interactivity provide karta hai (buttons, updates, etc.)
