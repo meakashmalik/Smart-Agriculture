@@ -14,7 +14,7 @@ Smart Agriculture Web System ek frontend-based web application hai jo agricultur
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## ⚙️ How It Works
 1. User website open karta hai browser me
